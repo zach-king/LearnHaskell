@@ -10,7 +10,7 @@ Now then, below here are some notes of mine
 
 Functions:
 -----------------
-succ x: returns the successor to x (x+1 for numbers)
+succ x: returns the successor to x (x+1 for numbers)\n
 succ 0 => 1
 
 min x y: returns the smaller of x and y
