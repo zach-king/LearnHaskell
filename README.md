@@ -10,17 +10,25 @@ Now then, below here are some notes of mine
 
 Functions:
 -----------------
-succ x: returns the successor to x (x+1 for numbers)\n
+succ x: returns the successor to x (x+1 for numbers)
+
 succ 0 => 1
 
+
 min x y: returns the smaller of x and y
+
 min 4 5 => 4
 
+
 max x y: returns the larger of x and y
+
 max 4 5 => 5
 
+
 head <list>: returns the head of <list>
+
 head [4,3,2] => 4
+
 
 last <list>: returns the last element  of <list>
 last [4,3,2] => 2
